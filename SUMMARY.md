@@ -11,3 +11,4 @@
   * [单体应用架构](wei-fu-wu-ru-men/wei-fu-wu-de-yan-jin/dan-ti-ying-yong-jia-gou.md)
   * [垂直应用架构](wei-fu-wu-ru-men/wei-fu-wu-de-yan-jin/chui-zhi-ying-yong-jia-gou.md)
   * [分布式架构](wei-fu-wu-ru-men/wei-fu-wu-de-yan-jin/fen-bu-shi-jia-gou.md)
+  * [SOA架构](wei-fu-wu-ru-men/wei-fu-wu-de-yan-jin/soa-jia-gou.md)
